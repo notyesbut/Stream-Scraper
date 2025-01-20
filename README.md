@@ -108,7 +108,7 @@ This software is provided "as is", without warranty of any kind, express or impl
 1.  **Non-Commercial Use Only:** This software may only be used for non-commercial purposes. Non-commercial use means that you may not use the software, or any derivative works, in any way that is primarily intended for or directed toward commercial advantage or monetary compensation.
 2.  **No Commercial Distribution:** You may not distribute, sublicense, sell, lease, rent, or otherwise transfer the software, or any derivative works, to any third party for commercial purposes.
 3.  **Attribution:** You must retain all copyright, trademark, and other proprietary notices contained in the original software and provide attribution to the original author in any derivative works.
-4.  **Prior Written Consent for Commercial Use:** Any use of this software for commercial purposes requires the prior written consent of the copyright holder. To request permission for commercial use, please contact [Your Contact Information].
+4.  **Prior Written Consent for Commercial Use:** Any use of this software for commercial purposes requires the prior written consent of the copyright holder. To request permission for commercial use, please contact qvzzcb@gmail.com.
 5. **Disclaimer:** The author shall not be held liable for any damages arising from the use of this software, even if advised of the possibility of such damages.
 
 **Termination:**
