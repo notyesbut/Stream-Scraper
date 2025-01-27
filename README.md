@@ -4,7 +4,7 @@ Stream Scraper is a tool designed to find and analyze streaming videos on websit
 
 ## Functionality
 
--   **Web Page Scraping**: Automatically crawls websites to find streams.
+-   **Web Page Scraping**: Automatically crawls websites to find streams and video.
 -   **Stream Analysis**: Extracts video quality information (480p, 720p, 1080p, 1440p, 2160p) from HLS and DASH playlists.
 -   **Database Storage**: Saves found links and quality information to an SQLite database.
 -   **Graphical User Interface**: Intuitive GUI for managing the scraping process and viewing results.
